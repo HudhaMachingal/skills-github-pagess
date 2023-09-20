@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title:First-blog
 ---
 # Mac wandering
 ### my first blog
